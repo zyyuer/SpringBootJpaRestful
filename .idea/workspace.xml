@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9aaf91b-50a4-442e-b43c-602b79b95f65" name="Default Changelist" comment="Spring data jpa restful演示">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SpringBootJpaRestful.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJpaRestful.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dj/launch/SpringBootStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dj/launch/dao/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dj/launch/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dj/launch/SpringBootStart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dj/launch/dao/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dj/launch/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BKgJRg1PfNy5U9xkvfteHbu4SM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBootStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootJpaRestful" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dj.launch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dj.launch.SpringBootStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringBootStart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9aaf91b-50a4-442e-b43c-602b79b95f65" name="Default Changelist" comment="" />
+      <created>1656660118834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656660118834</updated>
+      <workItem from="1656660120162" duration="275000" />
+      <workItem from="1657589414516" duration="329000" />
+      <workItem from="1657589769967" duration="1929000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Spring data jpa restful演示" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring data jpa restful演示" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Assign_Data_Sources" timestamp="1657591728536">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Assign_Data_Sources/0.0.1366.728@0.0.1366.728" timestamp="1657591728536" />
+    <state x="529" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1657589860858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="529" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1657589860858" />
+    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1657591683183">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1657591683183" />
+    <state x="837" y="118" width="440" height="490" key="FileChooserDialogImpl" timestamp="1657591562417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="837" y="118" width="440" height="490" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1657591562417" />
+    <state width="1322" height="187" key="GridCell.Tab.0.bottom" timestamp="1657591683683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="187" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1657591683683" />
+    <state width="1322" height="187" key="GridCell.Tab.0.center" timestamp="1657591683682">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="187" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1657591683682" />
+    <state width="1322" height="187" key="GridCell.Tab.0.left" timestamp="1657591683682">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="187" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1657591683682" />
+    <state width="1322" height="187" key="GridCell.Tab.0.right" timestamp="1657591683682">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="187" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1657591683682" />
+    <state width="1322" height="187" key="GridCell.Tab.1.bottom" timestamp="1657591683684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="187" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1657591683684" />
+    <state width="1322" height="187" key="GridCell.Tab.1.center" timestamp="1657591683683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="187" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1657591683683" />
+    <state width="1322" height="187" key="GridCell.Tab.1.left" timestamp="1657591683683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="187" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1657591683683" />
+    <state width="1322" height="187" key="GridCell.Tab.1.right" timestamp="1657591683683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="187" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1657591683683" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1657591524198">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1657591524198" />
+  </component>
+</project>
